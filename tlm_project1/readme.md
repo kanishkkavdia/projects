@@ -2,6 +2,8 @@
 
 Level of difficulty: 1/10
 
+Use datasets and work in jupyter notebook
+
 www.thelearningmachine.ai
 
 In this project, you will build a model that **predicts a car price based on a certain independent variables**.
