@@ -2,7 +2,7 @@
 
 Level of difficulty: 1/10
 
-Use datasets and work in jupyter notebook
+Use datasets (automobile_data1.csv, automobile_data2.csv, automobile_data3.csv) and work in jupyter notebook (tlm_project_1.ipynb)
 
 www.thelearningmachine.ai
 
