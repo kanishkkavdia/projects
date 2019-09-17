@@ -8,13 +8,14 @@ Projects are divided into 3 levels representing difficulty.
 
 ## Beginner 101
 ### Requirements
-- knowledge of syntax *(e.g. for/while loops and if statements)*
-- knowledge of pandas in data preprocessing *(e.g. delete/insert column, change column name, slice/filter/merge/split a table etc.)*
-- knowledge of data types *(e.g. object/string/int/float)*
+- knowledge of **syntax** *(e.g. for/while loops and if statements)*
+- knowledge of **pandas** in data preprocessing *(e.g. delete/insert column, change column name, slice/filter/merge/split a table etc.)*
+- knowledge of **data types** *(e.g. object/string/int/float)*
 
 ### Projects
 -  [**tlm_project1**](https://github.com/the-learning-machine/projects/tree/master/tlm_project1) - build a model that predicts a car price based on a certain set of independent variables
 
 ## Intermediate 201
-
+WIP
 ## Advanced 301
+WIP
