@@ -13,9 +13,8 @@ Projects are divided into 3 levels representing difficulty.
 - knowledge of data types *(e.g. object/string/int/float)*
 
 ### Projects
--  **tlm_project1** - build a model that predicts a car price based on a certain set of independent variables
+-  [**tlm_project1**](https://github.com/the-learning-machine/projects/tree/master/tlm_project1) - build a model that predicts a car price based on a certain set of independent variables
 
-[**tlm_project1**](actual URL to navigate)
 ## Intermediate 201
 
 ## Advanced 301
