@@ -14,6 +14,7 @@ Projects are divided into 3 levels representing difficulty.
 
 ### Projects
 -  [**tlm_project1**](https://github.com/the-learning-machine/projects/tree/master/tlm_project1) - build a model that predicts a car price based on a certain set of independent variables
+- [**tlm_project1**](https://github.com/the-learning-machine/projects/tree/master/tlm_project2) - build a model that predicts a of heart disease of a patient
 
 ## Intermediate 201
 WIP
