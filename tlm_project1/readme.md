@@ -17,3 +17,8 @@ The six sections are as follows:
 - Data Overview
 - Model Building
 - Conculsion
+
+## Requirements
+- knowledge of **syntax** *(e.g. for/while loops and if statements)*
+- knowledge of **pandas** in data preprocessing *(e.g. delete/insert column, change column name, slice/filter/merge/split a table etc.)*
+- knowledge of **data types** *(e.g. object/string/int/float)*
