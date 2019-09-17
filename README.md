@@ -15,5 +15,5 @@ This repository is mainly for beginners, but we will add more and more difficult
 - knowledge of **data types** *(e.g. object/string/int/float)*
 
 ### Projects
--  [**tlm_project_1**](https://github.com/the-learning-machine/projects/tree/master/tlm_project1) - build a model that predicts a car price
-- [**tlm_project_2**](https://github.com/the-learning-machine/projects/tree/master/tlm_project2) - build a model that predicts (a probability of) a heart disease of a patient
+-  [**tlm_project1**](https://github.com/the-learning-machine/projects/tree/master/tlm_project1) - build a model that predicts a car price
+- [**tlm_project2**](https://github.com/the-learning-machine/projects/tree/master/tlm_project2) - build a model that predicts (a probability of) a heart disease of a patient
