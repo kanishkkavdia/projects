@@ -1,4 +1,4 @@
-## TLM PROJECT I - Car Price Prediction - 09/2019
+## TLM PROJECT | Car Price Prediction - 09/2019
 
 Level of difficulty: 1/10
 
