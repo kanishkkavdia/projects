@@ -1,4 +1,4 @@
-TLM Monthly Projects by *thelearningmachine.ai*. Join our Slack to work on them together! -> https://forms.gle/uwYz5Qj6e5b4ydXV6
+TLM Monthly Projects by *thelearningmachine.ai*. Join our Slack to work on them together! -> http://tiny.cc/xcnwcz
 
 ## Levels Overview
 Projects are divided into 3 levels representing difficulty.
