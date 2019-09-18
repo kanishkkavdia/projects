@@ -1,4 +1,4 @@
-TLM Monthly Projects by *thelearningmachine.ai*. Join our Slack to work on them together! -> http://tiny.cc/xcnwcz
+TLM Monthly Projects. Join our Slack to work on them together! -> http://tiny.cc/xcnwcz
 
 ### Projects
 -  [**tlm_project1**](https://github.com/the-learning-machine/projects/tree/master/tlm_project1) - build a model that predicts a car price
