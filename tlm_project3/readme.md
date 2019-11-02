@@ -11,13 +11,13 @@ In this project, you will build a model that **predicts fasting blood sugar** of
 *The project contains 7 sections in total, each with step-by-step instructions of what to do. Note that, as we go further with our lessons, we will try to step away from guided projects like this to "less-guided", with less intructions involved. Thus, my advice is try to understand why we do what we do in what order.*
 
 The 7 sections are as follows:
-- Import the Libratries
-- Import the Datasets
-- Data Preprocessing
-- Data Overview
-- Model Building
-- Model Evaluation & Hyperparameter Tuning
-- Conculsion
+1. Import the Libratries
+2. Import the Datasets
+3. Data Preprocessing
+4. Data Overview
+5. Model Building
+6. Model Evaluation & Hyperparameter Tuning
+7. Conculsion
 
 ## Requirements
 - knowledge of **syntax** *(e.g. for/while loops and if statements)*
