@@ -23,4 +23,4 @@ The 7 sections are as follows:
 - knowledge of **syntax** *(e.g. for/while loops and if statements)*
 - knowledge of **pandas** in data preprocessing *(e.g. delete/insert column, change column name, slice/filter/merge/split a table etc.)*
 - knowledge of **data types** *(e.g. object/string/int/float)*
-- jupyter notebook (tlm_project_1.ipynb)
+- jupyter notebook (tlm_project_2.ipynb)
