@@ -10,13 +10,13 @@ In this project, you will build a model that **predicts a car price based on a c
 
 *The project contains 6 sections in total, each with step-by-step instructions of what to do. Note that, as we go further with our lessons, we will try to step away from guided projects like this to "less-guided", with less intructions involved. Thus, my advice is try to understand why we do what we do in what order.*
 
-The six sections are as follows:
-- Import the Libratries
-- Import the datasets
-- Data Preprocessing
-- Data Overview
-- Model Building
-- Conclusion
+The 6 sections are as follows:
+1. Import the Libratries
+2. Import the datasets
+3. Data Preprocessing
+4. Data Overview
+5. Model Building
+6. Conclusion
 
 ## Requirements
 - knowledge of **syntax** *(e.g. for/while loops and if statements)*
