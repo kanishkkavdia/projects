@@ -1,8 +1,8 @@
 ## TLM PROJECT | Heart Disease Prediction
 
-Level of difficulty: 4/10
-Date: 10/2019
-Datasets: heart1.csv, heart2.csv
+- Level of difficulty: 4/10
+- Date: 10/2019
+- Datasets: heart1.csv, heart2.csv
 
 **www.thelearningmachine.ai**
 
