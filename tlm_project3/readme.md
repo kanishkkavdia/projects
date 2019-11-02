@@ -1,6 +1,6 @@
 ## TLM PROJECT | Car Price Prediction
 
-Level of difficulty: 8/10
+Level of difficulty: 7/10
 Date: 11/2019
 Datasets: automobile_data1.csv, automobile_data2.csv, automobile_data3.csv
 
