@@ -1,8 +1,8 @@
 ## TLM PROJECT | Car Price Prediction - 09/2019
 
-Level of difficulty: 1/10
-Date: 09/2019
-Datasets: automobile_data1.csv, automobile_data2.csv, automobile_data3.csv
+- Level of difficulty: 1/10
+- Date: 09/2019
+- Datasets: automobile_data1.csv, automobile_data2.csv, automobile_data3.csv
 
 www.thelearningmachine.ai
 
