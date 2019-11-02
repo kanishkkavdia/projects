@@ -1,8 +1,8 @@
 ## TLM PROJECT | Car Price Prediction - 09/2019
 
 Level of difficulty: 1/10
-
-Use datasets (automobile_data1.csv, automobile_data2.csv, automobile_data3.csv) and work in jupyter notebook (tlm_project_1.ipynb)
+Date: 09/2019
+Datasets: automobile_data1.csv, automobile_data2.csv, automobile_data3.csv
 
 www.thelearningmachine.ai
 
@@ -16,9 +16,10 @@ The six sections are as follows:
 - Data Preprocessing
 - Data Overview
 - Model Building
-- Conculsion
+- Conclusion
 
 ## Requirements
 - knowledge of **syntax** *(e.g. for/while loops and if statements)*
 - knowledge of **pandas** in data preprocessing *(e.g. delete/insert column, change column name, slice/filter/merge/split a table etc.)*
 - knowledge of **data types** *(e.g. object/string/int/float)*
+- jupyter notebook (tlm_project_1.ipynb)
