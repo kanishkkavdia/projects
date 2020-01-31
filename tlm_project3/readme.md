@@ -1,8 +1,8 @@
-## TLM PROJECT | Car Price Prediction
+## TLM PROJECT | Blood Sugar Prediction
 
 - Level of difficulty: 7/10
 - Date: 11/2019
-- Datasets: automobile_data1.csv, automobile_data2.csv, automobile_data3.csv
+- Datasets: fbs1.xlsx, fbs2.xlsx
 
 **www.thelearningmachine.ai**
 
